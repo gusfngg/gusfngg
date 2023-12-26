@@ -4,7 +4,7 @@
 - 📚 Studying web development, in constant pursuit of new challenges.
 - 😜 Crafting web solutions with relentless curiosity and a passion for continuous learning.
 - 💬 Ask me about **JavaScript, HTML, CSS,**
-- 🌎 I am from São Paulo: ...
+- 🌎 I am from Brazil, São paulo.
 
 ## Contact
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/gs.gus/)
