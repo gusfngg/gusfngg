@@ -2,7 +2,6 @@
 <h1 align="left">Hi, I'm Gustavo</h1>
 
 - 📚 Studying web development, in constant pursuit of new challenges.
-- 😜 Crafting web solutions with relentless curiosity and a passion for continuous learning.
 - 💬 Ask me about **JavaScript, HTML, CSS,**
 - 🌎 I am from Brazil, São paulo.
 
@@ -12,6 +11,4 @@
 
 ## 🛠 &nbsp;Tech Stack
 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+`JavaScript` - `HTML` - `CSS`
