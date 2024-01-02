@@ -12,6 +12,7 @@
 
 
 ## Contact
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/gs.gus/)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-camargo-4b825b189/)
+- Email: gc722793@gmail.com
+- Linkedin: https://www.linkedin.com/in/gustavo-camargo/
+- Instagram: https://instagram.com/gs.gus
 
