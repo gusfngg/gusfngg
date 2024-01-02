@@ -12,7 +12,7 @@
 
 
 ## Contact
-- [Email](gc722793@gmail.com)
 - [Linkedin](https://www.linkedin.com/in/gustavo-camargo-4b825b189/)
 - [Instagram](https://instagram.com/gs.gus)
+- Email: gc722793@gmail.com
 
