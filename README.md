@@ -11,7 +11,7 @@ Front-end Developer
 
 ## &nbsp;Tech Stack
 
-`JavaScript` - `HTML` - `CSS`
+`JavaScript` - `Reactjs` - `HTML` - `CSS`
 
 
 
