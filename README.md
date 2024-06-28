@@ -11,7 +11,7 @@ Front-end Developer
 
 ## &nbsp;Tech Stack
 
-`Reactjs` - `JavaScript` - `HTML` - `CSS`
+`TypeScript` - `Reactjs` - `JavaScript` - `Styled Component` -`HTML` - `CSS`
 
 
 
@@ -19,4 +19,3 @@ Front-end Developer
 - [Linkedin](https://www.linkedin.com/in/gustavo-camargo-4b825b189/)
 - [Instagram](https://instagram.com/gs.gus)
 - Email: gc722793@gmail.com
-
