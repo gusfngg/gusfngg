@@ -11,7 +11,7 @@ Front-end Developer
 
 ## &nbsp;Tech Stack
 
-`Next.js` `Tailwindcss` -  - `TypeScript` - `Reactjs` - `JavaScript` - `Styled Component` -`HTML` - `CSS`
+`Next.js` - `Tailwindcss` - `TypeScript` - `Reactjs` - `JavaScript` - `Styled Component` -`HTML` - `CSS`
 
 
 
