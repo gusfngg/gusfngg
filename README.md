@@ -28,6 +28,22 @@ Shooter naval top-down no navegador. React 19, PixiJS 8, TanStack Query, MSW e P
 **[axis-print-agent](https://github.com/gusfngg/axis-print-agent)**<br>
 Agente local em TypeScript que expõe uma API HTTP em loopback para impressão ESC/POS. Jobs assinados, contrato versionado e fallback automático quando está offline.
 
+## Código fechado
+
+Produtos em repositórios privados, listados aqui só como referência.
+
+**Ânima**<br>
+Plataforma multi-filial de RH para NR-1 (riscos psicossociais) e bem-estar do colaborador.<br>
+`Next.js 16` `React 19` `Prisma 7` `PostgreSQL` `Zod 4` `Tailwind 4`
+
+**SuperAuto**<br>
+Varejo de autopeças: totem de autoatendimento, agente on-premise que lê o ERP legado e app mobile com assistente de IA em desenho.<br>
+`TypeScript` `Fastify` `MySQL` `React Native` `Expo`
+
+**CutPilot**<br>
+SaaS de otimização de corte de chapas 2D para marcenaria e serralheria.<br>
+`Next.js` `Prisma` `PostgreSQL` `Stripe` `Vitest` `Tailwind`
+
 ## Stack
 
 <p align="center">
