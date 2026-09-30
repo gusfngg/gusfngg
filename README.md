@@ -18,13 +18,15 @@ Engenheiro de software full-stack, com TypeScript como base. Meu trabalho fica n
 
 Me interesso por contratos bem definidos entre sistemas, por modelagem de dados e por reduzir a superfície do que pode falhar em produção.
 
+Sou movido por curiosidade e por um incômodo saudável com o que fica pela metade. Gosto de entender como as coisas funcionam por dentro e de tratar design como parte da engenharia: tipografia, espaçamento, movimento e microinterações são decisões de produto, não acabamento. Sou perfeccionista, e por isso entrego em fatias pequenas e refino em cima do que já funciona.
+
 ## Projetos selecionados
 
-| Projeto | O que é |
-| --- | --- |
-| [Pirate Battle](https://github.com/gusfngg/pirate-battle) · [jogar](https://pirate-battle-phi.vercel.app) | Shooter naval top-down no navegador. React 19, TypeScript, PixiJS 8, TanStack Query, MSW e Playwright. Tem [ARCHITECTURE](https://github.com/gusfngg/pirate-battle/blob/main/ARCHITECTURE.md) e [PERFORMANCE](https://github.com/gusfngg/pirate-battle/blob/main/PERFORMANCE.md) documentados. |
-| [axis-print-agent](https://github.com/gusfngg/axis-print-agent) | Agente local em TypeScript que expõe uma API HTTP em loopback para impressão ESC/POS (80mm). Jobs assinados, contrato versionado e fallback automático para o navegador quando está offline. |
-| [consultoria-axis](https://github.com/gusfngg/consultoria-axis) | Site da Axis Consultoria & Tecnologia. |
+**[Pirate Battle](https://github.com/gusfngg/pirate-battle)** · [jogar ↗](https://pirate-battle-phi.vercel.app)<br>
+Shooter naval top-down no navegador. React 19, PixiJS 8, TanStack Query, MSW e Playwright, com [arquitetura](https://github.com/gusfngg/pirate-battle/blob/main/ARCHITECTURE.md) e [performance](https://github.com/gusfngg/pirate-battle/blob/main/PERFORMANCE.md) documentadas.
+
+**[axis-print-agent](https://github.com/gusfngg/axis-print-agent)**<br>
+Agente local em TypeScript que expõe uma API HTTP em loopback para impressão ESC/POS. Jobs assinados, contrato versionado e fallback automático quando está offline.
 
 ## Stack
 
