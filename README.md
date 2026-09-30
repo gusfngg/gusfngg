@@ -1,21 +1,22 @@
-<h1 align="center">Olá, eu sou o Gustavo 👋</h1>
+<h1 align="center">Gustavo Camargo</h1>
 
 <p align="center">
-  Full-Stack Developer em São Paulo, Brasil<br>
-  Construo sistemas de gestão e agentes de IA sob medida para pequenas e médias empresas.
+  <strong>Engenharia de software para operações que não podem parar.</strong><br>
+  Full-Stack Developer · São Paulo, Brasil
 </p>
 
 <p align="center">
-  <a href="https://consultoria-axis.vercel.app"><img src="https://img.shields.io/badge/Axis-consultoria--axis.vercel.app-0B1F3A?style=for-the-badge" alt="Axis"></a>
-  <a href="https://www.linkedin.com/in/gustavo-camargo-4b825b189/"><img src="https://img.shields.io/badge/LinkedIn-Gustavo%20Camargo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://instagram.com/gs.gus"><img src="https://img.shields.io/badge/Instagram-@gs.gus-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+  <a href="https://consultoria-axis.vercel.app"><img src="https://img.shields.io/badge/Axis-0B1F3A?style=flat-square" alt="Axis"></a>
+  <a href="https://www.linkedin.com/in/gustavo-camargo-4b825b189/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://instagram.com/gs.gus"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
+  <a href="mailto:gc722793@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
-## O que eu faço
+<br>
 
-- **ERPs e sistemas web** para operações reais: caixa, estoque, oficina, RH, totem de autoatendimento.
-- **Integração com o que a empresa já usa**: agentes locais que conversam com ERPs legados, impressoras e meios de pagamento.
-- **Agentes de IA** para atendimento e vendas via WhatsApp.
+> Concebo e entrego software que sustenta a rotina de empresas reais, do balcão ao back-office.
+> Sistemas confiáveis, integrados ao que já existe e desenhados para serem operados por pessoas, não só por engenheiros.
+> Da arquitetura ao deploy, com o rigor de quem responde pelo resultado em produção.
 
 ## Em destaque
 
@@ -28,13 +29,14 @@
 ## Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,tailwind,prisma,postgres,supabase,cloudflare,vercel,playwright,git&perline=12" alt="Stack">
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,vite,html,css&theme=light&perline=8" alt="Front-end"><br>
+  <img src="https://skillicons.dev/icons?i=nodejs,prisma,postgres,mysql,supabase,vitest&theme=light&perline=8" alt="Back-end e dados"><br>
+  <img src="https://skillicons.dev/icons?i=vercel,cloudflare,git,github,githubactions&theme=light&perline=8" alt="Infra e ferramentas">
 </p>
 
 ## Como eu trabalho
 
 - Fatias pequenas que funcionam de ponta a ponta, com commit todo dia.
-- Testes verdes e revisão de segurança antes de ir para produção.
 - Sistema que outra pessoa consegue operar e entender depois.
 
 ## Contato
