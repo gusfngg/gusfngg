@@ -14,9 +14,7 @@
 
 <br>
 
-> Concebo e entrego software que sustenta a rotina de empresas reais, do balcão ao back-office.
-> Sistemas confiáveis, integrados ao que já existe e desenhados para serem operados por pessoas, não só por engenheiros.
-> Da arquitetura ao deploy, com o rigor de quem responde pelo resultado em produção.
+Sou o Gustavo, desenvolvedor de São Paulo. Gosto de construir software que resolve problema de verdade: o sistema do caixa, o estoque da loja, o atendimento que não pode esperar. Prefiro fazer algo simples que funciona a algo bonito e frágil, e fico junto até estar rodando em produção.
 
 ## Em destaque
 
@@ -28,16 +26,9 @@
 
 ## Stack
 
-<p>
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,vite,html,css&theme=light&perline=8" alt="Front-end"><br>
-  <img src="https://skillicons.dev/icons?i=nodejs,prisma,postgres,mysql,supabase,vitest&theme=light&perline=8" alt="Back-end e dados"><br>
-  <img src="https://skillicons.dev/icons?i=vercel,cloudflare,git,github,githubactions&theme=light&perline=8" alt="Infra e ferramentas">
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,vite,html,css,nodejs,npm,prisma,postgres,mysql,supabase,vitest,vercel,cloudflare,git,github,githubactions&theme=light&perline=10" alt="Stack">
 </p>
-
-## Como eu trabalho
-
-- Fatias pequenas que funcionam de ponta a ponta, com commit todo dia.
-- Sistema que outra pessoa consegue operar e entender depois.
 
 ## Contato
 
