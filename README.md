@@ -1,8 +1,8 @@
 <h1 align="center">Gustavo Camargo</h1>
 
 <p align="center">
-  <strong>Engenharia de software para operações que não podem parar.</strong><br>
-  Full-Stack Developer · São Paulo, Brasil
+  <strong>Full-Stack Engineer</strong> · TypeScript<br>
+  São Paulo, Brasil
 </p>
 
 <p align="center">
@@ -14,14 +14,16 @@
 
 <br>
 
-Sou o Gustavo, desenvolvedor de São Paulo. Gosto de construir software que resolve problema de verdade: o sistema do caixa, o estoque da loja, o atendimento que não pode esperar. Prefiro fazer algo simples que funciona a algo bonito e frágil, e fico junto até estar rodando em produção.
+Engenheiro de software full-stack, com TypeScript como base. Meu trabalho fica na fronteira entre produto e operação: plataformas multi-tenant, integração com sistemas legados e software que precisa seguir funcionando fora do ambiente controlado, com impressoras, meios de pagamento e bancos on-premise no caminho.
 
-## Em destaque
+Me interesso por contratos bem definidos entre sistemas, por modelagem de dados e por reduzir a superfície do que pode falhar em produção.
+
+## Projetos selecionados
 
 | Projeto | O que é |
 | --- | --- |
 | [Pirate Battle](https://github.com/gusfngg/pirate-battle) · [jogar](https://pirate-battle-phi.vercel.app) | Shooter naval top-down no navegador. React 19, TypeScript, PixiJS 8, TanStack Query, MSW e Playwright. Tem [ARCHITECTURE](https://github.com/gusfngg/pirate-battle/blob/main/ARCHITECTURE.md) e [PERFORMANCE](https://github.com/gusfngg/pirate-battle/blob/main/PERFORMANCE.md) documentados. |
-| [axis-print-agent](https://github.com/gusfngg/axis-print-agent) | Agente local de impressão de cupom (ESC/POS 80mm) do Axis ERP, com contrato HTTP versionado e fallback para o navegador. |
+| [axis-print-agent](https://github.com/gusfngg/axis-print-agent) | Agente local em TypeScript que expõe uma API HTTP em loopback para impressão ESC/POS (80mm). Jobs assinados, contrato versionado e fallback automático para o navegador quando está offline. |
 | [consultoria-axis](https://github.com/gusfngg/consultoria-axis) | Site da Axis Consultoria & Tecnologia. |
 
 ## Stack
